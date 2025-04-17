@@ -40,7 +40,7 @@ _You can add a screenshot of the dashboard here to showcase the visual layout._
 ## ✏️ Customization
 
 You can easily update this dashboard with your own sales data by modifying the source table. Charts and summaries will automatically adjust to reflect the new data.
-a
+
 ## 💬 Feedback & Contributions
 
 If you'd like to suggest improvements or contribute to the project, feel free to open an issue or fork the repo.
